@@ -382,5 +382,3 @@ async function mint() {
     }
   }
 }
-Footer
-© 2022 GitHub, Inc.
